@@ -18,7 +18,9 @@ app.use(
 )
 app.use(express.static(STATIC_DIRECTORY));
 
-const mongoURI = "mongodb://localhost:27017/capstone"
+
+// const mongoURI = "mongodb://localhost:27017/capstone"
+const mongoURI = precess.env.MONGODB.URL;
 
 mongoose
   .connect(mongoURI, { useNewUrlParser: true })
