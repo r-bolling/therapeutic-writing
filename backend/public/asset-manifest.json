@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9cb4201f.chunk.css",
+    "main.js": "/static/js/main.55127ed9.chunk.js",
+    "main.js.map": "/static/js/main.55127ed9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/js/2.09d70527.chunk.js": "/static/js/2.09d70527.chunk.js",
+    "static/js/2.09d70527.chunk.js.map": "/static/js/2.09d70527.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0d5974416b61a5f845642cb5f4a43d8a.js": "/precache-manifest.0d5974416b61a5f845642cb5f4a43d8a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9cb4201f.chunk.css.map": "/static/css/main.9cb4201f.chunk.css.map",
+    "static/js/2.09d70527.chunk.js.LICENSE.txt": "/static/js/2.09d70527.chunk.js.LICENSE.txt",
+    "static/media/pussinboots.jpg": "/static/media/pussinboots.232b6c8b.jpg",
+    "static/media/smileyFaces.png": "/static/media/smileyFaces.9ecf0679.png",
+    "static/media/smileyFacesGraph.png": "/static/media/smileyFacesGraph.1c25ad53.png",
+    "static/media/userimgplcholder.png": "/static/media/userimgplcholder.985f7f0f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/js/2.09d70527.chunk.js",
+    "static/css/main.9cb4201f.chunk.css",
+    "static/js/main.55127ed9.chunk.js"
+  ]
+}

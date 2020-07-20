@@ -1,0 +1,22 @@
+.emotionGraphDiv {
+  display: flex;
+  width: 100%;
+  height: 800px;
+  /* align-items: flex-start; */
+  padding: 3% 0%;
+  flex-flow: row wrap;
+}
+
+.emotionGraphImg {
+  width: 10%;
+  height: 80%;
+}
+
+#emotionGraph {
+  display: flex;
+  align-items: flex-end;
+  flex-flow: row wrap;
+  width: 90%;
+  height: 80%;
+  border-bottom: black 1px solid;
+}

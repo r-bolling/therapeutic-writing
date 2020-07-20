@@ -1,0 +1,20 @@
+{
+    "name": "heroku-node-capstone",
+    "version": "1.0.0",
+    "description": "https://trello.com/b/8OUQQUcW/theraputic-writing-app-se-2020",
+    "engines":{
+        "node": "14.x"
+    },
+    "scripts": {
+      "start": "node backend/server.js",
+      "build": "cd backend && npm install && cd ../client && npm install && npm run build && mv ./build ../backend/public",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "cacheDirectories": ["client/node_modules", "backend/node_modules"],
+    "dependencies": {
+        "express": "^4.16.4"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  

@@ -1,0 +1,15 @@
+.emotionSliderDiv {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  padding: 3% 0%;
+  flex-flow: column;
+}
+
+.emotionSliderImg {
+  width: 80%;
+}
+
+.emotionSlider {
+  width: 70%;
+}
